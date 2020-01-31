@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+{% render $1 %}
+]]></content>
+<tabTrigger>render</tabTrigger>
+<description>liquid render</description>
+<scope>text.html</scope>
+</snippet>
