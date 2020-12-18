@@ -1,6 +1,8 @@
 The MIT License (MIT)
 
-Copyright (c) 2010 Shopify, Inc., Koen Lageveen
+Sublime Liquid is a fork based on liquid-tmbundle and is subject to the following terms and conditions:
+Forked code: Copyright (c) 2010-2020 Shopify Inc.
+Modifications and additions made to the forked code: Copyright (c) 2020 Koen Lageveen.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
